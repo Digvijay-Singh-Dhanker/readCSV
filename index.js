@@ -1,7 +1,7 @@
 class TableCsv {
   /**
-    @param {HTMLTableElement} root The table element which will display the CSV data.
-   
+   * @param {HTMLTableElement} root The table element which will display the CSV data.
+   */
   constructor(root) {
     this.root = root;
   }
@@ -81,6 +81,8 @@ csvFileInput.addEventListener("change", (e) => {
     }
   });
 });
+
+
 var $rows = $('#csvFileInput tr');
 $('#search').keyup(function() {
     var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
