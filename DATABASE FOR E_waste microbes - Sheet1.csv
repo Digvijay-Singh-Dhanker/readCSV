@@ -1,0 +1,56 @@
+The organism used,Type,Name of toxic metals removed,
+,,,
+,,,
+,,,
+Acidithiobacillus thioxidans,Bacteria,"Arsenic, Lead",bioleaching of toxic metals
+Micrococcus roseus,Bacteria,Cadmium,bioleaching of toxic metals
+Thiobacillus ferrooxidans,Bacteria,"Arsenic, Lead",bioleaching of toxic metals
+Aspergillus fumigatus,Fungus,Arsenic,bioleaching of toxic metals
+Aspergillus niger,Fungus,"Cadmium, Lead",bioleaching of toxic metals
+,,,
+,,,
+,,,
+Bacillus sphaericus,Bacteria,Chromium,biosorption of toxic metals
+Myxococcus xanthus,Bacteria,Uranium,biosorption of toxic metals
+Pseudomonas aeruginosa,Bacteria,"Cadmium, Uranium",biosorption of toxic metals
+"Streptoverticillium
+ cinnamoneum",Bacteria,Lead,biosorption of toxic metals
+Rhizopus arrhizus,Fungus,Uranium,biosorption of toxic metals
+Saccharomyces cerevisiae,Fungus,Cadmium,biosorption of toxic metals
+,,,
+,,,
+,,,
+Bacillus circulans,Bacteria,Chromium,bioaccumulation of toxic metals
+Bacillus megaterium,Bacteria,Chromium,bioaccumulation of toxic metals
+Deinococcus radiodurans,Bacteria,Uranium,bioaccumulation of toxic metals
+Micrococcus luteus,Bacteria,Uranium,bioaccumulation of toxic metals
+Aspergillus niger,Fungus,"Chromium, Lead",bioaccumulation of toxic metals
+Monodictys pelagica,Fungus,"Chromium, Lead",bioaccumulation of toxic metals
+,,,
+,,,
+,,,
+Anaeromyxobacter sp.,Bacteria,Uranium,"biotransformation of toxic metals
+"
+Clostridium sphenoides,Bacteria,Uranium,"biotransformation of toxic metals
+"
+Halomonas sp.,Bacteria,Uranium,"biotransformation of toxic metals
+"
+Serratia sp.,Bacteria,Chromium,"biotransformation of toxic metals
+"
+Fusarium oxysporum,Fungus,Cadmium,"biotransformation of toxic metals
+"
+Rhizopus oryzae,Fungus,Chromium,"biotransformation of toxic metals
+"
+,,,
+,,,
+,,,
+Bacillus fusiformis,Bacteria,Lead,"biomineralization of toxic metals
+"
+Cupriavidus metallidurans,Bacteria,Cadmium,"biomineralization of toxic metals
+"
+Desulfotomaculum auripigmentum,Bacteria,Arsenic,"biomineralization of toxic metals
+"
+Sporosarcina ginsengisoli,Bacteria,Arsenic,"biomineralization of toxic metals
+"
+Aspergillus flavus,Fungus,Lead,"biomineralization of toxic metals
+"
