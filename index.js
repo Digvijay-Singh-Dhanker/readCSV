@@ -1,7 +1,7 @@
 class TableCsv {
   /**
-   * @param {HTMLTableElement} root The table element which will display the CSV data.
-   */
+    @param {HTMLTableElement} root The table element which will display the CSV data.
+   
   constructor(root) {
     this.root = root;
   }
@@ -80,4 +80,13 @@ csvFileInput.addEventListener("change", (e) => {
       tableCsv.update(results.data.slice(1), results.data[0]);
     }
   });
+});
+var $rows = $('#csvFileInput tr');
+$('#search').keyup(function() {
+    var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+    
+    $rows.show().filter(function() {
+        var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+        return !~text.indexOf(val);
+    }).hide();
 });
